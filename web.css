@@ -19,7 +19,7 @@ li {
 
 li a {
   display: flex;
-  color: black;
+  color: white;
   Justify-content: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -30,5 +30,5 @@ li a:hover:not(.active) {
 }
 
 .active {
-  background-color: #fff;
+  background-color: #1111;
 }
