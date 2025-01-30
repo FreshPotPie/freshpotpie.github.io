@@ -9,7 +9,6 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: hsla(30, 100%, 50%, 0.6);
-  opacity: 0.3;
   position: fixed;
   top: 225;
   width: 100%;
