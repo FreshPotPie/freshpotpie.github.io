@@ -6,7 +6,7 @@ body {
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 25;
   overflow: hidden;
   background-color: hsla(0, 15%, 50%, 0.3);
   position: fixed;
@@ -14,7 +14,7 @@ ul {
   width: 100%;
 }
 li {
-  float: none;
+  float: left;
 }
 
 li a {
