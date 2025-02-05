@@ -40,7 +40,7 @@
 
     .container {
       background-color: rgb(29, 22, 22);
-      height: 30vw;
+      height: 45vw;
       display: flex;
       position: relative;
       flex-direction: row;
@@ -51,7 +51,7 @@
       width: 10vw;
       text-align: center;
       border-image-slice: 10%;
-      margin-left: 300px;
+      margin-left: 500px;
       flex: 1;
     }
 
