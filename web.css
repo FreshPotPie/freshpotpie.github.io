@@ -48,11 +48,11 @@
 
     .box1 {
       background-color: white;
-      width: 10vw;
+      width: 50%;
       text-align: center;
       border-image-slice: 10%;
-      margin-left: 600px;
-      flex: 1;
+      margin: auto;
+      padding: 10px;
     }
 
     .box2 {
