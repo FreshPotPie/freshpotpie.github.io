@@ -72,9 +72,10 @@
       background-color: orange;
       COLOR: white;
     }
+
     .contact {
       background-color: white;
-      float: right;
+      float: left;
       width: 300px;
       padding: 10px;
     }
