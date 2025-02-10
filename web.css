@@ -49,7 +49,7 @@
     .box1 {
       background-color: white;
       width: 50%;
-      text-align: center;
+      text-align: left;
       border-image-slice: 10%;
       margin: auto;
       padding: 10px;
