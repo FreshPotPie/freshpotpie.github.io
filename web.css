@@ -75,7 +75,9 @@
 
     .contact {
       background-color: white;
-      float: left;
-      width: 300px;
+      width: 25%;
+      text-align: left;
+      border-image-slice: 10%;
+      margin: auto;
       padding: 10px;
     }
