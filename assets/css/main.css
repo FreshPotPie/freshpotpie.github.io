@@ -2257,6 +2257,7 @@ input, select, textarea {
 
 		body.homepage #header:after {
 			content: '';
+			background-image: url("../../images/header.jpg");
 			background: #1C0920;
 			display: block;
 			position: absolute;
