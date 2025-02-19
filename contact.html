@@ -70,24 +70,17 @@
 <h3>Contact Form</h3>
 
 <div class="container">
-  <form action="/action_page.php">
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
-
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-    
-     <label for="lname">Email</label>
-    <input type="text" id="email" name="email" placeholder="Your Email">
-    
-        <label for="lname">Phone Number</label>
-    <input type="text" id="phone" name="Phone" placeholder="Your Phone Number">
-
-    <label for="subject">Message</label>
-    <textarea id="subject" name="subject" placeholder="" style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
-  </form>
+     <form method="post" name="contact_form"
+    action="contact-form-handler.php">
+        Your Name:
+        <input type="text" name="name">
+        Email Address:
+        <input type="text" name="email">
+        Message:
+        <textarea name="message"></textarea>
+        <input type="submit" value="Submit">
+    </form>
+ 
 </div>
 
 
